@@ -9,6 +9,10 @@ Dealing with missing values in data:
 For this project, both datasets have missing value columns have not been deleted, rather it has filled with No, None or 0 instead so that we can create a correlation for each variable.
 
 ### Methodology:
+
+Dealing with missing values in data:
+For this project, both datasets have missing value columns have not been deleted, rather it has filled with No, None or 0 instead so that we can create a correlation for each variable.
+
 1. Create a correlation between all numeric features first and analyze.
 2. Create a scatter plot to see the relationship between numeric features with the sale price.
 3. Seek to see out outlier by conducting boxplot and filtering the outliers out.
