@@ -3,7 +3,7 @@
 This project aims to provide main features of a house that affects its price, done by doing Regression models.
 
 ### Problem Statement:
-To help create an application for housing agents to quickly input information on site and generate a rough estimate.
+To help create an application for housing agents to quickly input information on site and generate a rough estimate for customers.
 
 ### Data Dictionary:
 http://jse.amstat.org/v19n3/decock/DataDocumentation.txt
