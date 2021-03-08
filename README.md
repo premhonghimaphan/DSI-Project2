@@ -2,6 +2,9 @@
 
 This project aims to provide main features of a house that affects its price, done by doing Regression models.
 
+### Problem Statement:
+To help create an application for housing agents to quickly input information on site and generate a rough estimate.
+
 ### Data Dictionary:
 http://jse.amstat.org/v19n3/decock/DataDocumentation.txt
 
@@ -67,3 +70,7 @@ Top 10 Factors reducing the price of a house are:
 
 - The type of dwelling has quite a significant impact on house price
 - Detail inspection aspect such as roof style, masonry veneer type and primary exterior plays down the price.
+
+As a property agent, these factors should be able to be assessed on site and give the customer a rough estimate quickly. 
+
+However, from the modeling, we can see that features such as Neighborhood was heavily impacting the price. The model right now only limits itself to Ames, Iowa. Hence, gathering more information from different locations would help make the model more generalized and able to use across the country. 
